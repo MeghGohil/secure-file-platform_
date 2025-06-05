@@ -1,0 +1,26 @@
+# Node
+node_modules/
+.env
+
+# Logs
+*.log
+
+# Bash key
+client/secret.key
+
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+
+# Docker
+*.tar
+
+# Ansible facts
+*.retry
+
+# Kubernetes
+*.yaml~
+
+# OS Files
+.DS_Store
